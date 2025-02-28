@@ -23,8 +23,8 @@ Une application interactive de jeu de grattage développée avec Vue 3, Vite et 
 1. Clonez le dépôt GitHub :
 
 ```bash
-git clone https://github.com/votre-username/jeu-de-grattage.git
-cd jeu-de-grattage
+git clone https://github.com/JordanDestin/game_axxes.git
+cd vite-project
 ```
 
 2. Installez les dépendances :
